@@ -12,7 +12,7 @@ function EducationsSection() {
                 <h2 className="text-primary md:text-6xl text-5xl font-semibold mb-10">
                     Educations
                 </h2>
-                <div className="educations grid md:grid-cols-2 gap-4">
+                <div className="educations grid md:grid-cols-1">
                     {educations.map((education, index) => (
                         <motion.div
                             key={index}

@@ -17,7 +17,7 @@ function Education({
 }: EducationProps) {
     return (
         <figure className="rounded-2xl bg-background shadow-lg ring-1 ring-primary flex flex-col text-base lg:text-lg">
-            <blockquote className="flex gap-3 items-center p-6 font-semibold tracking-tight flex-1">
+            <blockquote className="flex gap-3 items-center p-6 font-semibold tracking-tight flex-1 justify-center">
                 {degree && (
                     <img
                         loading="lazy"
@@ -29,7 +29,7 @@ function Education({
                 <span>{`“${title}”`}</span>
                 <div>{description}</div>
             </blockquote>
-            <figcaption className="flex flex-wrap items-center gap-x-4 gap-y-4 border-t border-primary/10 px-6 py-4 lg:flex-nowrap">
+            <figcaption className="flex items-center gap-x-4 gap-y-4 px-6 py-4">
                 {img && (
                     <img
                         loading="lazy"

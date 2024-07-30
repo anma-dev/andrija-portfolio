@@ -12,7 +12,7 @@ function ExperiencesSection() {
                 <h2 className="text-primary md:text-6xl text-5xl font-semibold mb-10">
                     Experience
                 </h2>
-                <div className="experiences grid md:grid-cols-2 gap-4 lg:grid-cols-3">
+                <div className="experiences grid gap-4 md:grid-cols-2">
                     {experiences.map((experience, index) => (
                         <motion.div
                             key={index}
