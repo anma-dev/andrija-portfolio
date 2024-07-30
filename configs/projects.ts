@@ -1,50 +1,43 @@
 const projects = [
-   
     {
-        img: 'https://statics.topai.tools/img/tools/maxartai.webp',
-        title: 'AI - Image Generation',
-        url: 'https://mixart.ai/'
+        img: '/project/image.PNG',
+        title: 'AI - Image(Cartoon) Generation',
+        url: 'https://aicartoongenerator.net/',
     },
     {
-        img: 'https://statics.topai.tools/img/tools/yourfriends-ai.webp',
-        title: 'AI - Chatbot',
-        url: 'https://yourfriends.ai '
+        img: '/project/baby.PNG',
+        title: 'AI - Image(Baby) Generation',
+        url: 'https://aibabygenerator.com/ ',
     },
     {
-        img: 'https://statics.topai.tools/img/tools/speechforms.webp',
-        title: 'AI - Speech to Text',
-        url: 'https://www.speechforms.com/'
-
+        img: '/project/chatbot.PNG',
+        title: 'AI - Chatbot Builder',
+        url: 'https://www.instabot.io/',
     },
     {
-        img: 'https://statics.topai.tools/img/tools/dsensei.webp',
-        title: 'AI - LLM',
-        url: 'https://www.empower.dev/'
-
+        img: 'https://res.cloudinary.com/practicaldev/image/fetch/f_png,q_80/https://foundr.ai/static/poster/c/chatfast-io.png?_t=1722330439',
+        title: 'AI - Chatbot GPT',
+        url: 'https://www.chatfast.io/',
     },
     {
-        img: '/project/gravity.png',
-        title: 'React + Bootstrap + Node.js',
-        url: 'https://www.gravityproxies.com/'
-
+        img: '/project/react.PNG',
+        title: 'React + Next.js + Node.js',
+        url: 'https://www.morphlin.com/',
     },
     {
-        img: 'https://statics.topai.tools/img/tools/ifoto.webp',
-        title: 'Vue.js + Nuxt.js + Node.js',
-        url: 'https://www.ifoto.ai/'
-
+        img: 'https://res.cloudinary.com/practicaldev/image/fetch/f_png,q_80/https://foundr.ai/static/poster/c/cybertiks.png?_t=1722333163',
+        title: 'React + Next.js + TailwindCSS',
+        url: 'https://cybertiks.com/',
     },
     {
-        img: './project/rewire.png',
-        title: 'Wordpress + React + Node.js',
-        url: 'https://rewire.ai/polygon-ai/'
-        
+        img: 'https://res.cloudinary.com/practicaldev/image/fetch/f_png,q_80/https://foundr.ai/static/poster/d/docuo.png?_t=1722328380',
+        title: 'React + Next.js + Ant Design',
+        url: 'https://www.spreading.ai/',
     },
     {
-        img: './project/flowshark.png',
-        title: 'React+ Marko + Node.js  + Solana',
-        url: 'https://bc-dashboard-gilt.vercel.app/'
-
+        img: 'https://res.cloudinary.com/practicaldev/image/fetch/f_png,q_80/https://foundr.ai/static/poster/d/deepgram-pmxs.png?_t=1722328450',
+        title: 'React + Next.js + TypeScript',
+        url: 'https://deepgram.com/',
     },
 ]
 
