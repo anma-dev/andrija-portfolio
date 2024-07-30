@@ -1,6 +1,6 @@
 const education = [
     {
-        img: '/edu/sergio.png',
+        img: '/edu/linnaeus.png',
         title: 'Bachelor of Computer science',
         university: 'Linnaeus University (2016-2019)',
         degree: '/edu/bachelor.png',
