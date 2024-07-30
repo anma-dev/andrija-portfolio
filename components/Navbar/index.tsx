@@ -20,11 +20,10 @@ const navLinks = [
         name: 'Experience',
         link: '#experiences',
     },
-    {
-        name: 'Service',
-        link: '#services',
-    },
-
+    // {
+    //     name: 'Service',
+    //     link: '#services',
+    // },
     {
         name: 'Skill',
         link: '#skills',
