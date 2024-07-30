@@ -16,7 +16,7 @@ function Experience({
     description,
 }: ExperienceProps) {
     return (
-        <figure className="rounded-2xl bg-background shadow-lg ring-1 ring-primary flex flex-col">
+        <figure className="rounded-2xl bg-background shadow-lg ring-1 ring-primary flex flex-col text-base sm:text-lg md:text-xl xl:text-2xl">
             <figcaption className="flex flex-wrap items-center gap-x-4 gap-y-4 border-t border-primary/10 p-4  lg:flex-nowrap">
                 {img && (
                     <img

@@ -16,7 +16,7 @@ function Education({
     description,
 }: EducationProps) {
     return (
-        <figure className="rounded-2xl bg-background shadow-lg ring-1 ring-primary flex flex-col text-base lg:text-lg">
+        <figure className="rounded-2xl bg-background shadow-lg ring-1 ring-primary flex flex-col text-base sm:text-lg md:text-xl xl:text-2xl">
             <blockquote className="flex gap-3 items-center p-6 font-semibold tracking-tight flex-1 justify-center">
                 {degree && (
                     <img
