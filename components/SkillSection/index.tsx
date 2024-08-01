@@ -23,7 +23,7 @@ function SkillsSection() {
                                         src={icon}
                                         alt=""
                                         loading="lazy"
-                                        className="w-full aspect-square"
+                                        className="w-full aspect-square rounded-full"
                                     />
                                     <p className="text-center text-sm">{name}</p>
                                 </div>

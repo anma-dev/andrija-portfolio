@@ -20,7 +20,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         <html lang="en">
             <head>
                 <title>Andrija Matic</title>
-                <link rel="icon" href="logo.jpg" />
+                <link rel="icon" href="logo.png" />
             </head>
             <body className={`text-text bg-background dark`}>
                 {!loading ? (

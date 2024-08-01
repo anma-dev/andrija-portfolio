@@ -28,10 +28,10 @@ const navLinks = [
         name: 'Skill',
         link: '#skills',
     },
-    {
-        name: 'Contact',
-        link: '#contact',
-    },
+    // {
+    //     name: 'Contact',
+    //     link: '#contact',
+    // },
 ]
 
 function Navbar() {
