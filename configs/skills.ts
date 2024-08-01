@@ -1,5 +1,13 @@
 const skills = [
     {
+        name: 'Gen AI',
+        icon: 'https://cdn-icons-png.freepik.com/256/9980/9980295.png?ga=GA1.1.2076789743.1718763143&semt=ais_hybrid',
+    },
+    {
+        name: 'Chatbot',
+        icon: 'https://cdn-icons-png.freepik.com/256/5226/5226034.png?ga=GA1.1.2076789743.1718763143&semt=ais_hybrid',
+    },
+    {
         name: 'LLM',
         icon: 'https://cdn-icons-png.freepik.com/256/10161/10161813.png?ga=GA1.1.2076789743.1718763143&semt=ais_hybrid',
     },
@@ -22,14 +30,6 @@ const skills = [
     {
         name: 'Langchain',
         icon: '/skills/langchain.svg',
-    },
-    {
-        name: 'Chatbot',
-        icon: 'https://cdn-icons-png.freepik.com/256/5226/5226034.png?ga=GA1.1.2076789743.1718763143&semt=ais_hybrid',
-    },
-    {
-        name: 'Gen AI',
-        icon: 'https://cdn-icons-png.freepik.com/256/9980/9980295.png?ga=GA1.1.2076789743.1718763143&semt=ais_hybrid',
     },
     {
         name: 'Python',
