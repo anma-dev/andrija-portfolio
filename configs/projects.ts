@@ -15,9 +15,9 @@ const projects = [
         url: 'https://www.instabot.io/',
     },
     {
-        img: 'https://res.cloudinary.com/practicaldev/image/fetch/f_png,q_80/https://foundr.ai/static/poster/c/chatfast-io.png?_t=1722330439',
-        title: 'AI - Chatbot GPT',
-        url: 'https://www.chatfast.io/',
+        img: '/project/healthcare.PNG',
+        title: 'AI - Chatbot Healthcare',
+        url: 'https://docus.ai/',
     },
     {
         img: '/project/react.PNG',
