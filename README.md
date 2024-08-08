@@ -21,3 +21,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 -   Next.js: https://nextjs.org/docs
 -   TypeScript: https://www.typescriptlang.org/docs
 -   Tailwind CSS: https://tailwindcss.com/docs
+
+## Contributor
+
+- [Andrija](https://github.com/anma-dev)
+- [Shine](https://github.com/shinevue)
